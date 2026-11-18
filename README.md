@@ -59,3 +59,7 @@ João Mateus Panichelli: JM Design & Marketing, Bebedouro/SP.
 ## Licença
 
 MIT
+
+## Demo
+
+https://joaozinpsd-prog.github.io/legenda-livre/ (build com `BASE_PATH=/legenda-livre/ npm run build`)
